@@ -28,3 +28,10 @@ Mostly caused by Access-Control-Allow-Origin (any ideas on how to fix it?)
 Since there is no computer science class in my high school, I learned coding by myself online (there are a lot of resorces online). If there is anywhere I should improve, please tell me!
 
 **NOTE: Please do not make any money with my code**
+
+
+I wrote these codes a few months ago. Now I have already found a lot of different ways to bypass this giant URL searcher. My current website can even bypass youtube video. However, I don't want to update this repo any more since it is fun to discover and utilize bugs by yourself. If you wish to start discovering, just remember: this is nothing but a chrome extension. 
+
+Useful websites: <br />
+https://gist.github.com/paulirish/78d6c1406c901be02c2d <br />
+chrome://policy/ -> ExtensionInstallForcelist -> Show Value -> find goguardian
